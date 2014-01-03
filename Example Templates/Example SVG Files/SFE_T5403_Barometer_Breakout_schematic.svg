@@ -2,49 +2,49 @@
 <!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="101.417px" height="85.015px" viewBox="-4.428 -0.5 101.417 85.015" enable-background="new -4.428 -0.5 101.417 85.015"
+	 width="101.417px" height="85.015px" viewBox="0 0 101.417 85.015" enable-background="new 0 0 101.417 85.015"
 	 xml:space="preserve">
-<g id="background">
-	<rect x="-4.428" y="0" fill="#F2F2F2" width="66.028" height="84.515"/>
-</g>
 <g id="schematic" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 	
-		<rect id="part_symbol" x="3.2" y="7.2" fill="#FFFFFF" stroke="#000000" stroke-width="0.9002" stroke-linecap="round" width="85.788" height="70.114"/>
+		<rect id="part_symbol" x="7.628" y="7.2" fill="#FFFFFF" stroke="#000000" stroke-width="0.9002" stroke-linecap="round" width="85.788" height="70.114"/>
 	<g id="pins">
 		<g>
 			
-				<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="47.488" y1="77.314" x2="47.488" y2="84.515"/>
+				<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="51.916" y1="77.314" x2="51.916" y2="84.515"/>
 		</g>
 		
-			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="-4" y1="28.8" x2="3.2" y2="28.8"/>
+			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="0.428" y1="28.8" x2="7.628" y2="28.8"/>
 		
-			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="-4" y1="21.6" x2="3.2" y2="21.6"/>
+			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="0.428" y1="21.6" x2="7.628" y2="21.6"/>
 		
-			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="-4" y1="43.2" x2="3.2" y2="43.2"/>
+			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="0.428" y1="43.2" x2="7.628" y2="43.2"/>
 		
-			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="-4" y1="36" x2="3.2" y2="36"/>
+			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="0.428" y1="36" x2="7.628" y2="36"/>
 		
-			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="-4" y1="50.4" x2="3.2" y2="50.4"/>
+			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="0.428" y1="50.4" x2="7.628" y2="50.4"/>
 		
-			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="-4" y1="57.6" x2="3.2" y2="57.6"/>
+			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="0.428" y1="57.6" x2="7.628" y2="57.6"/>
 		<g>
 			
-				<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="47.488" y1="7.201" x2="47.488" y2="0"/>
+				<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="51.916" y1="7.201" x2="51.916" y2="0"/>
 		</g>
 	</g>
 	<g id="pin_labels">
-		<text transform="matrix(1 0 0 1 43.3914 75)" fill="#555555" font-family="'DroidSans'" font-size="4.5">Gnd</text>
-		<text transform="matrix(1 0 0 1 44.2928 12.5352)" fill="#555555" font-family="'DroidSans'" font-size="4.5">V</text>
-		<text transform="matrix(1 0 0 1 46.7137 12.5352)" fill="#555555" font-family="'DroidSans'" font-size="4.5">c</text>
-		<text transform="matrix(1 0 0 1 48.7976 12.5352)" fill="#555555" font-family="'DroidSans'" font-size="4.5">c</text>
-		<text transform="matrix(1 0 0 1 5.219 23.3507)" fill="#555555" font-family="'DroidSans'" font-size="4.5">SCL/SCLK</text>
-		<text transform="matrix(1 0 0 1 5.2595 30.4332)" enable-background="new    "><tspan x="0" y="0" fill="#555555" font-family="'DroidSans'" font-size="4.5">S</tspan><tspan x="2.336" y="0" fill="#555555" font-family="'DroidSans'" font-size="4.5">D</tspan><tspan x="5.37" y="0" fill="#555555" font-family="'DroidSans'" font-size="4.5">A/MOSI</tspan></text>
-		<text transform="matrix(1 0 0 1 5.219 37.736)" fill="#555555" font-family="'DroidSans'" font-size="4.5">MISO</text>
-		<text transform="matrix(1 0 0 1 5.219 44.9839)" fill="#555555" font-family="'DroidSans'" font-size="4.5">RST/&amp;SS</text>
-		<text transform="matrix(1 0 0 1 5.2595 52.0664)" fill="#555555" font-family="'DroidSans'" font-size="4.5">SEL</text>
-		<text transform="matrix(1 0 0 1 5.219 59.3692)" fill="#555555" font-family="'DroidSans'" font-size="4.5">EOC</text>
+		<text transform="matrix(1 0 0 1 47.8194 75)" fill="#555555" font-family="'DroidSans'" font-size="4.5">Gnd</text>
+		<text transform="matrix(1 0 0 1 48.7208 12.5352)" fill="#555555" font-family="'DroidSans'" font-size="4.5">V</text>
+		<text transform="matrix(1 0 0 1 51.1417 12.5352)" fill="#555555" font-family="'DroidSans'" font-size="4.5">c</text>
+		<text transform="matrix(1 0 0 1 53.2256 12.5352)" fill="#555555" font-family="'DroidSans'" font-size="4.5">c</text>
+		<text transform="matrix(1 0 0 1 9.647 23.3507)" fill="#555555" font-family="'DroidSans'" font-size="4.5">SCL/SCLK</text>
+		<text transform="matrix(1 0 0 1 9.6875 30.4332)" fill="#555555" font-family="'DroidSans'" font-size="4.5">S</text>
+		<text transform="matrix(1 0 0 1 12.0235 30.4332)" fill="#555555" font-family="'DroidSans'" font-size="4.5">D</text>
+		<text transform="matrix(1 0 0 1 15.0575 30.4332)" fill="#555555" font-family="'DroidSans'" font-size="4.5">A/MOSI</text>
+		<text transform="matrix(1 0 0 1 9.647 37.736)" fill="#555555" font-family="'DroidSans'" font-size="4.5">MISO</text>
+		<text transform="matrix(1 0 0 1 9.647 44.9839)" fill="#555555" font-family="'DroidSans'" font-size="4.5">RST/&amp;SS</text>
+		<text transform="matrix(1 0 0 1 9.6875 52.0664)" fill="#555555" font-family="'DroidSans'" font-size="4.5">SEL</text>
+		<text transform="matrix(1 0 0 1 9.647 59.3692)" fill="#555555" font-family="'DroidSans'" font-size="4.5">EOC</text>
 	</g>
-	<text transform="matrix(1 0 0 1 38.5425 21.4189)" font-family="'DroidSans'" font-size="6">T5403 </text>
-	<text transform="matrix(1 0 0 1 32.3873 28.6191)" enable-background="new    "><tspan x="0" y="0" font-family="'DroidSans'" font-size="6">Barometer</tspan><tspan x="1.456" y="7.2" font-family="'DroidSans'" font-size="6">Breakout </tspan></text>
+	<text transform="matrix(1 0 0 1 42.9705 21.4189)" font-family="'DroidSans'" font-size="6">T5403 </text>
+	<text transform="matrix(1 0 0 1 36.8153 28.6191)" font-family="'DroidSans'" font-size="6">Barometer</text>
+	<text transform="matrix(1 0 0 1 38.2713 35.8191)" font-family="'DroidSans'" font-size="6">Breakout </text>
 </g>
 </svg>
